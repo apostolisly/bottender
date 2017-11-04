@@ -4,6 +4,7 @@
 [![CircleCI](https://circleci.com/gh/Yoctol/bottender.svg?style=shield)](https://circleci.com/gh/Yoctol/bottender)
 [![coverage](https://codecov.io/gh/Yoctol/bottender/branch/master/graph/badge.svg)](https://codecov.io/gh/Yoctol/bottender)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fbottender.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fbottender?ref=badge_shield)
 
 ![](https://user-images.githubusercontent.com/3382565/32216617-85cb703a-bdf3-11e7-9a0b-0e084b47c39e.png)
 
@@ -88,3 +89,6 @@ Make your changes and tests, and make sure the tests pass.
 ## License
 
 MIT © [Yoctol](https://github.com/Yoctol/bottender)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fbottender.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fbottender?ref=badge_large)
